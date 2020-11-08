@@ -1,12 +1,14 @@
 ### Hi there 👋 
 
 #### I'm Ravi from India, I really enjoy learning programming launguages like C++,Python and Php, as well as Digital Marketing.
-![github stats](https://github-readme-stats.vercel.app/api?username=RAVI-SAINI-6666&show_icons=true&theme=radical)
+
 
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">A passionate developer from India, I really enjoy learning programming launguages like C++,Python and Php, as well as Digital Marketing.</h3>
 
-- 🌱 I’m currently learning **C++,D.S. and Algo,Python,Django**
+![github stats](https://github-readme-stats.vercel.app/api?username=RAVI-SAINI-6666&show_icons=true&theme=radical)
+
+- 🌱 I’m currently learning **C++, Python, Django, Data Structure and Algorithm.**
 
 - 📫 How to reach me **zravi6666@gmail.com**
 
