@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Ravi</h2>
 <h3 align="center">A passionate developer from India, I really enjoy learning programming languages like C++, Python and PHP. I also have little bit  knowledge Digital Marketing.</h3>
-
+</br>
 - 🌱 I’m currently learning **C++, Python, Django, Data Structure and Algorithm.**
 
 - 📫 How to reach me **zravi6666@gmail.com**
@@ -17,4 +17,5 @@
 </p>
 
 <h3 align="left">Statistics :</h3>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=RAVI-SAINI-6666&show_icons=true&theme=radical)
