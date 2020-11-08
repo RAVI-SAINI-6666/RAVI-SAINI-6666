@@ -1,10 +1,5 @@
-### Hi there 👋 
-
-#### I'm Ravi from India, I really enjoy learning programming launguages like C++,Python and Php, as well as Digital Marketing.
-
-
 <h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">A passionate developer from India, I really enjoy learning programming launguages like C++,Python and Php, as well as Digital Marketing.</h3>
+<h3 align="center">A passionate developer from India, I really enjoy learning programming languages like C++, Python and PHP. I also have little bit  knowledge Digital Marketing.</h3>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=RAVI-SAINI-6666&show_icons=true&theme=radical)
 
