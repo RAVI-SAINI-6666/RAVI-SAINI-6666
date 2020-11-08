@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ravi</h1>
+<h1 align="center">Hi there 👋, I'm Ravi</h1>
 <h3 align="center">A passionate developer from India, I really enjoy learning programming languages like C++, Python and PHP. I also have little bit  knowledge Digital Marketing.</h3>
-<div><div>
+
 - 🌱 I’m currently learning **C++, Python, Django, Data Structure and Algorithm.**
 
 - 📫 How to reach me **zravi6666@gmail.com**
-</div><div>
-![github stats](https://github-readme-stats.vercel.app/api?username=RAVI-SAINI-6666&show_icons=true&theme=radical)
-</div></div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -18,3 +15,6 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=RAVI-SAINI-6666&show_icons=true&theme=radical)
