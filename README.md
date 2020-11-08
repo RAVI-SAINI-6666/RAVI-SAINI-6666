@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ravi</h1>
+<h2 align="center">Hi there 👋, I'm Ravi</h2>
 <h3 align="center">A passionate developer from India, I really enjoy learning programming languages like C++, Python and PHP. I also have little bit  knowledge Digital Marketing.</h3>
 
 - 🌱 I’m currently learning **C++, Python, Django, Data Structure and Algorithm.**
@@ -16,5 +16,5 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-
+<h3 align="left">Statistics :</h3>
 ![github stats](https://github-readme-stats.vercel.app/api?username=RAVI-SAINI-6666&show_icons=true&theme=radical)
